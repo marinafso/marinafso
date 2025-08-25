@@ -1,7 +1,12 @@
 ### Hi there 👋
 
 ### About me
-Business bachelor beggining her journey in tech. Excited to learn new things 
+Business bachelor starting a career into data analysis.
+My repositories are a practical reflection of my journey from Business Strategy to Data Analytics. I focus on building end-to-end projects that solve real-world problems, from data extraction and cleaning to statistical modeling and interactive visualization.
+
+Skills: Python Pandas NumPy SQL ETL Statistical Modeling Data Visualization Looker Studio
+
+Currently exploring: Predictive analytics and building data-driven narratives.
 
 ### Detalhes
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marinafso)](https://github.com/anuraghazra/github-readme-stats)
