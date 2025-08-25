@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### About me
-Business bachelor starting a career into data analysis.
+Business bachelor starting a career in data analysis.
 My repositories are a practical reflection of my journey from Business Strategy to Data Analytics. I focus on building end-to-end projects that solve real-world problems, from data extraction and cleaning to statistical modeling and interactive visualization.
 
 Skills: Python Pandas NumPy SQL ETL Statistical Modeling Data Visualization Looker Studio
