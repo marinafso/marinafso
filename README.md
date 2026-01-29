@@ -8,15 +8,7 @@ Skills: Python Pandas NumPy SQL ETL Statistical Modeling Data Visualization Look
 
 Currently exploring: Predictive analytics and building data-driven narratives.
 
-### Detalhes
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marinafso)](https://github.com/anuraghazra/github-readme-stats)
 
-### Last Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marinafso&repo=Tik-Tok-Project)](https://github.com/anuraghazra/github-readme-stats)
-
-### Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinafso)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact
 
